@@ -18,3 +18,8 @@ Agenda:
 | 4:30pm - 5:00pm | Wrap-up + Q&A | End of day 2 | N/A |
 
 *ADB = Azure Databricks
+
+PLEASE NOTE: I am not the owner/creator of any of the notebooks in this repo. Please see below for a list of the source repos containing the notebooks:
+- SparkML (Random Forests, Logistic Regression, Feature Engineering, Config) -> https://github.com/Azure/LearnAI_Azure_ML/tree/master/presenter/notebooks
+- AutomatedML with Databricks (Hands-on lab) -> https://github.com/Azure/LearnAI_Azure_ML/tree/master/presenter/notebooks/day_2
+- AutomatedML Energy Forecast Example -> https://github.com/FrancescaLazzeri/AutomatedMLEnergyForecast
