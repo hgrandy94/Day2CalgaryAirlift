@@ -2,6 +2,7 @@
 Materials for day 2 of the Calgary Airlift event 5/23/2019 - Focus on Azure ML
 
 Agenda:
+
 | Time | Topic | Description 
 | --- | --- | --- |
 | 8:30am-9:00am | Registration and Kick-Off | Grab breakfast & coffee, get settled in |
