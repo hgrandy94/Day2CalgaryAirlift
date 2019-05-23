@@ -7,7 +7,7 @@ Agenda:
 | --- | --- | --- | --- |
 | 8:30am-9:00am | Registration and Kick-Off | Grab breakfast & coffee, get settled in | N/A |
 | 9:00am-9:45am | Machine Learning in Azure Presentation | An overview of the ML capabilities and services in Azure | slides/AML_Overview |
-| 9:45am-10:45am | Logistic Regression & Random Forests with Spark ML in Databricks | Hands-on-lab, learn to work with Spark ML in ADB* | notebooks/sparkml |
+| 9:45am-10:45am | Logistic Regression & Random Forests with Spark ML in Databricks | Hands-on-lab, learn to work with Spark ML in ADB* | slides/LRRF_Algorithms & notebooks/sparkml |
 | 10:45am-11:00am | Break | Continue lab if desired | N/A |
 | 11:00am-12:00pm | Automated ML Presentation and Demo + Lab Set-up | Learn how to build ML models both with & without code using AutoML | datasets/nyc_energy.csv & slides/AutomatedML |
 | 12:00pm - 1:00pm | Lunch | Continue lab from the morning if desired; ensure set-up is complete for afternoon AutoML lab | notebooks/automl|
