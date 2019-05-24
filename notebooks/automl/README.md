@@ -1,4 +1,4 @@
-### Intro
+## Intro
 The notebooks found here will help users learn how to configure and use AutoML in Azure Databricks. Please read all instructions carefully, as there are several pre-requisites.
 
 **Note**: The 01_aml_getting_started.ipynb and 02_automated_ML.ipynb notebooks are part of the same solution, and should be run in the order indicated by the number prefixes. The notebook with the 01 prefix will configure your Azure Machine Learning workspace.
