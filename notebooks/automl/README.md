@@ -28,6 +28,7 @@ Open 01_aml_getting_started, follow the instructions as per the notebook to conf
 Open 02_automated_ML.ipynb, and read the notes provided within the notebook. If you get any errors, please review the steps listed above, and ensure you have completed all pre-requisites.
 
 
-PLEASE NOTE: I am not the owner/creator of any of the notebooks in this repo. Please see below for a list of the source repos containing the notebooks:
-- AutomatedML Notebooks 01 and 02 -> https://github.com/Azure/LearnAI_Azure_ML/tree/master/presenter/notebooks/day_2
-- AutomatedML Notebooks 03 and 04 -> https://github.com/FrancescaLazzeri/AutomatedMLEnergyForecast
+
+**PLEASE NOTE**: I am not the owner/creator of any of the notebooks in this repo. Please see below for a list of the source repos containing the notebooks:
+- Notebooks 01 and 02 -> https://github.com/Azure/LearnAI_Azure_ML/tree/master/presenter/notebooks/day_2
+- Notebooks 03 and 04 -> https://github.com/FrancescaLazzeri/AutomatedMLEnergyForecast
