@@ -1,3 +1,9 @@
+## Pre-requisites:
+1. An Azure Databricks workspace. Follow this document to create a workspace: https://docs.azuredatabricks.net/getting-started/try-databricks.html
+
+2. An Azure Databricks cluster. Follow this quickstart to get familiar with the UI:
+https://docs.azuredatabricks.net/getting-started/quick-start.html#quick-start
+
 ## Instructions:
 1. Import the notebooks into your Azure Databricks worskpace.
 2. Run the notebooks in "includes" to mount blob storage to your workspace.
